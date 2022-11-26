@@ -1,0 +1,379 @@
+Формування першої команди
+Choose droid №1
+1. Base Droid
+2. Attack Droid
+3. Defend Droid
+3
+Choose droid №2
+1. Base Droid
+2. Attack Droid
+3. Defend Droid
+2
+
+Формування другої команди
+Choose droid №1
+1. Base Droid
+2. Attack Droid
+3. Defend Droid
+1
+Choose droid №2
+1. Base Droid
+2. Attack Droid
+3. Defend Droid
+3
+[0m
+----------------------------Turn number:1----------------------------
+[0;32mDroid-Defend Droid give damage-1 to Defend Droid
+[0;31mDroid-Base Droid give damage-19 to Defend Droid
+[0;36m
+Your team:
+Defend Droid(HP: 131  Av Dmg: 10)
+Attack Droid(HP: 70  Av Dmg: 25)
+[0;35m
+Enemy team:
+Base Droid(HP: 100  Av Dmg: 20)
+Defend Droid(HP: 149  Av Dmg: 10)
+[0m
+----------------------------Turn number:2----------------------------
+[0;32mDroid-Defend Droid give damage-3 to Base Droid
+[1;91mAttack was blocked
+[0;36m
+Your team:
+Defend Droid(HP: 131  Av Dmg: 10)
+Attack Droid(HP: 70  Av Dmg: 25)
+[0;35m
+Enemy team:
+Base Droid(HP: 97  Av Dmg: 20)
+Defend Droid(HP: 149  Av Dmg: 10)
+[0m
+----------------------------Turn number:3----------------------------
+[0;32mDroid-Defend Droid give damage-9 to Base Droid
+[0;31mDroid-Base Droid give damage-7 to Defend Droid
+[0;36m
+Your team:
+Defend Droid(HP: 124  Av Dmg: 10)
+Attack Droid(HP: 70  Av Dmg: 25)
+[0;35m
+Enemy team:
+Base Droid(HP: 88  Av Dmg: 20)
+Defend Droid(HP: 149  Av Dmg: 10)
+[0m
+----------------------------Turn number:4----------------------------
+[1;91mAttack was blocked
+[0;31mDroid-Base Droid give damage-12 to Defend Droid
+[0;36m
+Your team:
+Defend Droid(HP: 112  Av Dmg: 10)
+Attack Droid(HP: 70  Av Dmg: 25)
+[0;35m
+Enemy team:
+Base Droid(HP: 88  Av Dmg: 20)
+Defend Droid(HP: 149  Av Dmg: 10)
+[0m
+----------------------------Turn number:5----------------------------
+[0;32mDroid-Defend Droid give damage-8 to Defend Droid
+[0;31mDroid-Base Droid give damage-8 to Attack Droid
+[0;36m
+Your team:
+Defend Droid(HP: 112  Av Dmg: 10)
+Attack Droid(HP: 62  Av Dmg: 25)
+[0;35m
+Enemy team:
+Base Droid(HP: 88  Av Dmg: 20)
+Defend Droid(HP: 141  Av Dmg: 10)
+[0m
+----------------------------Turn number:6----------------------------
+[1;91mAttack was blocked
+[0;31mDroid-Base Droid give damage-9 to Defend Droid
+[0;36m
+Your team:
+Defend Droid(HP: 103  Av Dmg: 10)
+Attack Droid(HP: 62  Av Dmg: 25)
+[0;35m
+Enemy team:
+Base Droid(HP: 88  Av Dmg: 20)
+Defend Droid(HP: 141  Av Dmg: 10)
+[0m
+----------------------------Turn number:7----------------------------
+[0;32mDroid-Defend Droid give damage-6 to Base Droid
+[0;31mDroid-Base Droid give damage-17 to Attack Droid
+[0;36m
+Your team:
+Defend Droid(HP: 103  Av Dmg: 10)
+Attack Droid(HP: 45  Av Dmg: 25)
+[0;35m
+Enemy team:
+Base Droid(HP: 82  Av Dmg: 20)
+Defend Droid(HP: 141  Av Dmg: 10)
+[0m
+----------------------------Turn number:8----------------------------
+[1;91mAttack was blocked
+[0;31mDroid-Base Droid give damage-18 to Attack Droid
+[0;36m
+Your team:
+Defend Droid(HP: 103  Av Dmg: 10)
+Attack Droid(HP: 27  Av Dmg: 25)
+[0;35m
+Enemy team:
+Base Droid(HP: 82  Av Dmg: 20)
+Defend Droid(HP: 141  Av Dmg: 10)
+[0m
+----------------------------Turn number:9----------------------------
+[0;32mDroid-Defend Droid give damage-4 to Base Droid
+[1;91mAttack was blocked
+[0;36m
+Your team:
+Defend Droid(HP: 103  Av Dmg: 10)
+Attack Droid(HP: 27  Av Dmg: 25)
+[0;35m
+Enemy team:
+Base Droid(HP: 78  Av Dmg: 20)
+Defend Droid(HP: 141  Av Dmg: 10)
+[0m
+----------------------------Turn number:10----------------------------
+[0;32mDroid-Defend Droid give damage-1 to Defend Droid
+[1;91mAttack was blocked
+[0;36m
+Your team:
+Defend Droid(HP: 103  Av Dmg: 10)
+Attack Droid(HP: 27  Av Dmg: 25)
+[0;35m
+Enemy team:
+Base Droid(HP: 78  Av Dmg: 20)
+Defend Droid(HP: 140  Av Dmg: 10)
+[0m
+----------------------------Turn number:11----------------------------
+[0;32mDroid-Defend Droid give damage-9 to Base Droid
+[0;31mDroid-Base Droid give damage-8 to Attack Droid
+[0;36m
+Your team:
+Defend Droid(HP: 103  Av Dmg: 10)
+Attack Droid(HP: 19  Av Dmg: 25)
+[0;35m
+Enemy team:
+Base Droid(HP: 69  Av Dmg: 20)
+Defend Droid(HP: 140  Av Dmg: 10)
+[0m
+----------------------------Turn number:12----------------------------
+[1;91mAttack was blocked
+[0;31mDroid-Base Droid give damage-1 to Attack Droid
+[0;36m
+Your team:
+Defend Droid(HP: 103  Av Dmg: 10)
+Attack Droid(HP: 18  Av Dmg: 25)
+[0;35m
+Enemy team:
+Base Droid(HP: 69  Av Dmg: 20)
+Defend Droid(HP: 140  Av Dmg: 10)
+[0m
+----------------------------Turn number:13----------------------------
+[0;32mDroid-Defend Droid give damage-5 to Base Droid
+[0;31mDroid-Base Droid give damage-17 to Attack Droid
+[0;36m
+Your team:
+Defend Droid(HP: 103  Av Dmg: 10)
+Attack Droid(HP: 1  Av Dmg: 25)
+[0;35m
+Enemy team:
+Base Droid(HP: 64  Av Dmg: 20)
+Defend Droid(HP: 140  Av Dmg: 10)
+[0m
+----------------------------Turn number:14----------------------------
+[0;32mDroid-Defend Droid give damage-4 to Defend Droid
+[1;91mKill droid
+[0;31mDroid-Base Droid give damage-5 to Attack Droid
+[0;36m
+Your team:
+Defend Droid(HP: 103  Av Dmg: 10)
+[0;35m
+Enemy team:
+Base Droid(HP: 64  Av Dmg: 20)
+Defend Droid(HP: 136  Av Dmg: 10)
+[0m
+----------------------------Turn number:15----------------------------
+[0;32mDroid-Defend Droid give damage-1 to Defend Droid
+[0;31mDroid-Base Droid give damage-11 to Defend Droid
+[0;36m
+Your team:
+Defend Droid(HP: 92  Av Dmg: 10)
+[0;35m
+Enemy team:
+Base Droid(HP: 64  Av Dmg: 20)
+Defend Droid(HP: 135  Av Dmg: 10)
+[0m
+----------------------------Turn number:16----------------------------
+[0;32mDroid-Defend Droid give damage-6 to Defend Droid
+[1;91mAttack was blocked
+[0;36m
+Your team:
+Defend Droid(HP: 92  Av Dmg: 10)
+[0;35m
+Enemy team:
+Base Droid(HP: 64  Av Dmg: 20)
+Defend Droid(HP: 129  Av Dmg: 10)
+[0m
+----------------------------Turn number:17----------------------------
+[0;32mDroid-Defend Droid give damage-5 to Base Droid
+[1;91mAttack was blocked
+[0;36m
+Your team:
+Defend Droid(HP: 92  Av Dmg: 10)
+[0;35m
+Enemy team:
+Base Droid(HP: 59  Av Dmg: 20)
+Defend Droid(HP: 129  Av Dmg: 10)
+[0m
+----------------------------Turn number:18----------------------------
+[0;32mDroid-Defend Droid give damage-2 to Base Droid
+[0;31mDroid-Base Droid give damage-10 to Defend Droid
+[0;36m
+Your team:
+Defend Droid(HP: 82  Av Dmg: 10)
+[0;35m
+Enemy team:
+Base Droid(HP: 57  Av Dmg: 20)
+Defend Droid(HP: 129  Av Dmg: 10)
+[0m
+----------------------------Turn number:19----------------------------
+[1;91mAttack was blocked
+[0;31mDroid-Base Droid give damage-6 to Defend Droid
+[0;36m
+Your team:
+Defend Droid(HP: 76  Av Dmg: 10)
+[0;35m
+Enemy team:
+Base Droid(HP: 57  Av Dmg: 20)
+Defend Droid(HP: 129  Av Dmg: 10)
+[0m
+----------------------------Turn number:20----------------------------
+[0;32mDroid-Defend Droid give damage-6 to Defend Droid
+[0;31mDroid-Base Droid give damage-7 to Defend Droid
+[0;36m
+Your team:
+Defend Droid(HP: 69  Av Dmg: 10)
+[0;35m
+Enemy team:
+Base Droid(HP: 57  Av Dmg: 20)
+Defend Droid(HP: 123  Av Dmg: 10)
+[0m
+----------------------------Turn number:21----------------------------
+[0;32mDroid-Defend Droid give damage-8 to Base Droid
+[0;31mDroid-Base Droid give damage-15 to Defend Droid
+[0;36m
+Your team:
+Defend Droid(HP: 54  Av Dmg: 10)
+[0;35m
+Enemy team:
+Base Droid(HP: 49  Av Dmg: 20)
+Defend Droid(HP: 123  Av Dmg: 10)
+[0m
+----------------------------Turn number:22----------------------------
+[1;91mAttack was blocked
+[0;31mDroid-Base Droid give damage-8 to Defend Droid
+[0;36m
+Your team:
+Defend Droid(HP: 46  Av Dmg: 10)
+[0;35m
+Enemy team:
+Base Droid(HP: 49  Av Dmg: 20)
+Defend Droid(HP: 123  Av Dmg: 10)
+[0m
+----------------------------Turn number:23----------------------------
+[0;32mDroid-Defend Droid give damage-5 to Base Droid
+[1;91mAttack was blocked
+[0;36m
+Your team:
+Defend Droid(HP: 46  Av Dmg: 10)
+[0;35m
+Enemy team:
+Base Droid(HP: 44  Av Dmg: 20)
+Defend Droid(HP: 123  Av Dmg: 10)
+[0m
+----------------------------Turn number:24----------------------------
+[0;32mDroid-Defend Droid give damage-3 to Base Droid
+[1;91mAttack was blocked
+[0;36m
+Your team:
+Defend Droid(HP: 46  Av Dmg: 10)
+[0;35m
+Enemy team:
+Base Droid(HP: 41  Av Dmg: 20)
+Defend Droid(HP: 123  Av Dmg: 10)
+[0m
+----------------------------Turn number:25----------------------------
+[0;32mDroid-Defend Droid give damage-4 to Base Droid
+[0;31mDroid-Base Droid give damage-3 to Defend Droid
+[0;36m
+Your team:
+Defend Droid(HP: 43  Av Dmg: 10)
+[0;35m
+Enemy team:
+Base Droid(HP: 37  Av Dmg: 20)
+Defend Droid(HP: 123  Av Dmg: 10)
+[0m
+----------------------------Turn number:26----------------------------
+[0;32mDroid-Defend Droid give damage-2 to Base Droid
+[0;31mDroid-Base Droid give damage-2 to Defend Droid
+[0;36m
+Your team:
+Defend Droid(HP: 41  Av Dmg: 10)
+[0;35m
+Enemy team:
+Base Droid(HP: 35  Av Dmg: 20)
+Defend Droid(HP: 123  Av Dmg: 10)
+[0m
+----------------------------Turn number:27----------------------------
+[1;91mAttack was blocked
+[0;31mDroid-Base Droid give damage-4 to Defend Droid
+[0;36m
+Your team:
+Defend Droid(HP: 37  Av Dmg: 10)
+[0;35m
+Enemy team:
+Base Droid(HP: 35  Av Dmg: 20)
+Defend Droid(HP: 123  Av Dmg: 10)
+[0m
+----------------------------Turn number:28----------------------------
+[1;91mAttack was blocked
+[0;31mDroid-Base Droid give damage-8 to Defend Droid
+[0;36m
+Your team:
+Defend Droid(HP: 29  Av Dmg: 10)
+[0;35m
+Enemy team:
+Base Droid(HP: 35  Av Dmg: 20)
+Defend Droid(HP: 123  Av Dmg: 10)
+[0m
+----------------------------Turn number:29----------------------------
+[0;32mDroid-Defend Droid give damage-1 to Defend Droid
+[0;31mDroid-Base Droid give damage-11 to Defend Droid
+[0;36m
+Your team:
+Defend Droid(HP: 18  Av Dmg: 10)
+[0;35m
+Enemy team:
+Base Droid(HP: 35  Av Dmg: 20)
+Defend Droid(HP: 122  Av Dmg: 10)
+[0m
+----------------------------Turn number:30----------------------------
+[0;32mDroid-Defend Droid give damage-3 to Base Droid
+[0;31mDroid-Base Droid give damage-9 to Defend Droid
+[0;36m
+Your team:
+Defend Droid(HP: 9  Av Dmg: 10)
+[0;35m
+Enemy team:
+Base Droid(HP: 32  Av Dmg: 20)
+Defend Droid(HP: 122  Av Dmg: 10)
+[0m
+----------------------------Turn number:31----------------------------
+[0;32mDroid-Defend Droid give damage-1 to Base Droid
+[0;31mDroid-Base Droid give damage-9 to Defend Droid
+[0;36m
+Your team:
+[0;33mEmpty
+[0;35m
+Enemy team:
+Base Droid(HP: 31  Av Dmg: 20)
+Defend Droid(HP: 122  Av Dmg: 10)
+[1;31mEnemy team win
